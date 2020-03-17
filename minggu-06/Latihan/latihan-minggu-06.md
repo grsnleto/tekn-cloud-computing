@@ -21,8 +21,9 @@ Seperti pada gambar dibawah ini :
 | Koneksi  | Membaca Data Mysql |
 |---|---|
 |[Lihat Script](/minggu-06/Latihan/main.go)   | [Lihat Script](/minggu-06/Latihan/baca-Mysql.go)  |   
+
 Sehingga hasil yang ditampilkan ketika melakukan eksekusi terhadapat program koneksi dan baca data mysql, akan menghasilkan output seperti pada ambar dibawah ini :<br/>
-1. Output untuk program koneksi :
+1. Output untuk program koneksi :<br/>
 ![gambar-04](/minggu-06/Latihan/gambar-04.jpg)
 2. Output untuk Program Membaca Data MySql :<br/>
 ![gambar-03](/minggu-06/Latihan/gambar-03.jpg)
@@ -71,7 +72,7 @@ dimana saya membuat database dengan nama <b>tccMhs</b> didalamnya dibuat colecti
 |[Lihat Script](/minggu-06/Latihan/konek-mongo.go)   | [Lihat Script](/minggu-06/Latihan/baca-Mongo.go)  | 
 
 Sehingga hasil yang ditampilkan ketika melakukan eksekusi terhadapat program koneksi dan baca data mongodb, akan menghasilkan output seperti pada ambar dibawah ini :<br/>
-1. Output untuk program koneksi :
+1. Output untuk program koneksi :<br/>
 ![gambar-10](/minggu-06/Latihan/gambar-10.jpg)
 2. Output untuk Program Membaca Data MySql :<br/>
 ![gambar-11](/minggu-06/Latihan/gambar-11.jpg)
