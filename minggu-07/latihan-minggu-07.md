@@ -1,5 +1,5 @@
 # Penjelasan Praktikum TCC Minggu Ke 07
-# Latihan
+## Latihan
 
 1. Proses melakukan instalasi docker dekstop, untuk melakukan instalasi docker dekstop ada beberapa ketentuan yakni : <br/>
 <dd>
