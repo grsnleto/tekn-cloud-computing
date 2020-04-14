@@ -84,3 +84,11 @@ Dimana hasil update pada file yml akan ditampilkan ketika proses runnig ulang ke
 
 12. Dan selajutnya melakukan eksperimen pada beberapa perintah docker yang ada. Dimana beberapa perintah ini akan melihat container yang sedang running pada backgroung, melakukan stop running container, melihat running pada server web dan volume container, seperti pada gambar dibawah ini :<br/>
 ![gambar-14](/minggu-08/gambar-14.jpg) 
+<dd>
+
+Lihat Script
+
+| File app.py  | Dockefile | File docker-compose.yml| File requirements.txt|
+|---|---|---|---|
+|[Lihat Script](/minggu-08/app.py)   | [Lihat Script](/minggu-08/Dockerfile)  | [Lihat Script](/minggu-08/docker-compose.yml) | [Lihat Script](/minggu-08/requirements.txt) |
+</dd>
