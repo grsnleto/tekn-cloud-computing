@@ -62,7 +62,7 @@ sehingga apabila kita melakukan refresh ulang pada website kita, akan menampilka
 ![gambar-26](/minggu-09/gambar-26.jpg)<br/>
 apabila sudah, maka remove dan nonaktifkan sementara kembali web kita. untuk perintahnya seperti dibawah ini :<br/>
 ![gambar-27](/minggu-09/gambar-27.jpg)<br/>
-20. Kemudian melakukan update image. Dengan membuat image baru dengan versinya yaitu 2.0. Perintah yang digunakan seperti pada gambar dibawah ini :
+20. Kemudian melakukan update image. Dengan membuat image baru dengan versinya yaitu 2.0. Perintah yang digunakan seperti pada gambar dibawah ini :<br/>
 ![gambar-28](/minggu-09/gambar-28.jpg)<br/>
 21. Selanjutnya melihat list image yang berjalan, dengan menggunakan perintah seperti dibawah ini :<br/>
 ![gambar-29](/minggu-09/gambar-29.jpg)<br/>
